@@ -1,0 +1,5 @@
+name: "Vowel Frequency Analyzer"
+description: "Counts vowels and updates README"
+runs:
+  using: "docker"
+  image: "Dockerfile"
